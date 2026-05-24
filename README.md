@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=AI+Orchestration+Specialist+%F0%9F%A7%A0;AWS+%7C+Python+%7C+Serverless+%E2%98%81%EF%B8%8F;From+Colombia+to+the+Cloud+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/nicolasbejarano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nicolas.bejarano@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=NicoBJ1906&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </p>
@@ -129,7 +129,7 @@ class NicolasBejarano:
 
 *Let's build something intelligent together.*
 
-**📫 Reach me at** [LinkedIn](https://www.linkedin.com/in/nicolasbejarano) · [Email](mailto:nicolas.bejarano@outlook.com)
+**📫 Reach me at** [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/) · [Email](mailto:nicolas.bejarano@outlook.com)
 
 </div>
 
