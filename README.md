@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=200&section=header&text=Nicol%C3%A1s%20Bejarano%20Jim%C3%A9nez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Systems%20Engineer%20%7C%20AI%20Orchestration%20Specialist&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=200&section=header&text=Nicol%C3%A1s%20Bejarano%20Jim%C3%A9nez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Systems%20Engineer%20%7C%20AI%20Orchestration%20Specialist&descSize=16&descAlignY=55&fontFamily=Poppins" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=AI+Orchestration+Specialist+%F0%9F%A7%A0;AWS+%7C+Python+%7C+Serverless+%E2%98%81%EF%B8%8F;From+Colombia+to+the+Cloud+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=AI+Orchestration+Specialist+%F0%9F%A7%A0;AWS+%7C+Python+%7C+Serverless+%E2%98%81%EF%B8%8F;From+Colombia+to+the+Cloud+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
