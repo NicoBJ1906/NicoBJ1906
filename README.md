@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoBJ1906&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="280"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoBJ1906&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500" width="280"/>
 
 ## 🧠 About Me
 
