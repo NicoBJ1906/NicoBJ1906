@@ -1,109 +1,136 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nicolas%20Bejarano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Systems%20Engineer%20%7C%20AI%20Orchestration%20Specialist&descSize=16&descAlignY=55" width="100%"/>
+
 <div align="center">
 
-# Hey, I'm Nicolas Bejarano 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Systems+Engineer;AI+Orchestration+Specialist;AWS+%7C+Python+%7C+Serverless+Architecture;Building+intelligent+systems+that+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=Designing+AI+systems+that+think%2C+learn+and+scale+%F0%9F%A7%A0;From+Colombia+to+the+Cloud+%F0%9F%87%A8%F0%9F%87%B4+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/nicolasbejarano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nicolas.bejarano@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=NicoBJ1906&style=for-the-badge&color=6C63FF" />
+  <a href="mailto:nicolas.bejarano@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NicoBJ1906&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBJ1906&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="280"/>
+
 ## 🧠 About Me
 
-```yaml
-name: Nicolas Bejarano
-location: Colombia 🇨🇴
-roles:
-  - Systems Engineer
-  - AI Engineer
-  - AI Orchestration Specialist
-focus: Building scalable AI systems with cloud-native architectures
-currently: Designing multi-agent orchestration pipelines
+```python
+class NicolasBejarano:
+    role = "AI Engineer & Orchestration Specialist"
+    location = "Colombia 🇨🇴"
+    
+    skills = {
+        "ai": ["Bedrock", "LangChain", "RAG", "MCP Servers"],
+        "cloud": ["AWS Lambda", "Step Functions", "DynamoDB", "S3"],
+        "automation": ["n8n", "GitHub Actions", "CI/CD"],
+        "languages": ["Python", "JavaScript", "C#", "SQL"]
+    }
+    
+    current_focus = "Multi-agent AI orchestration at scale"
+    
+    def __str__(self):
+        return "Building intelligent systems that solve real problems"
 ```
 
-I design and build **AI-powered systems** that solve real problems at scale. My expertise lies in orchestrating intelligent agents, serverless architectures, and bridging the gap between AI models and production-ready infrastructure.
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### AI & Machine Learning
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-6C63FF?style=for-the-badge&logo=robot&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+**🤖 AI & ML**
 
-### Automation & DevOps
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-6C63FF?style=flat-square&logo=robot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logo=bookstack&logoColor=white)
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td align="center" width="33%">
+
+**☁️ Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🔄 Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBJ1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" height="170"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoBJ1906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%"/>
 </div>
 
 ---
 
-## 🏗️ What I Build
+## 🏗️ What I Do
 
-| Area | Description |
-|------|-------------|
-| 🤖 **AI Orchestration** | Multi-agent systems, prompt engineering, RAG pipelines |
-| ☁️ **Serverless** | Event-driven architectures on AWS Lambda, API Gateway, Step Functions |
-| 🔄 **Automation** | Workflow automation with n8n, custom integrations, CI/CD |
-| 🧩 **MCP Servers** | Model Context Protocol servers for AI agent tooling |
+<div align="center">
+
+| 🤖 AI Orchestration | ☁️ Serverless Architecture | 🔄 Workflow Automation | 🧩 MCP Development |
+|:---:|:---:|:---:|:---:|
+| Multi-agent systems | Event-driven on AWS | n8n + custom integrations | AI agent tooling |
+| Prompt engineering | Lambda, Step Functions | CI/CD pipelines | Protocol servers |
+| RAG pipelines | Scale-to-zero design | Process optimization | Enterprise solutions |
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🐍 Contribution Graph
 
-- 🔬 Building production-grade AI orchestration systems
-- 🛠️ Developing custom MCP servers for enterprise workflows
-- 📐 Designing serverless architectures that scale to zero
-- 🌎 Open to collaboration on AI/ML projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NicoBJ1906/NicoBJ1906/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
+### 🚀 Open to opportunities in AI Engineering & Cloud Architecture
 
-*I'm always open to discussing AI architecture, cloud solutions, and innovative projects.*
+*Let's build something intelligent together.*
 
-**If you're a recruiter or looking for an AI Engineer — let's talk.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+**📫 Reach me at** [LinkedIn](https://www.linkedin.com/in/nicolasbejarano) · [Email](mailto:nicolas.bejarano@outlook.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
