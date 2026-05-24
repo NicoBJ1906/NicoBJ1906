@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=200&section=header&text=Nicol%C3%A1s%20Bejarano%20Jim%C3%A9nez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Systems%20Engineer%20%7C%20AI%20Orchestration%20Specialist&descSize=16&descAlignY=55&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=200&section=header&text=Nicol%C3%A1s%20Bejarano%20Jim%C3%A9nez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Systems%20Engineer%20%7C%20AI%20Orchestration%20Specialist&descSize=16&descAlignY=55" width="100%"/>
 
 <div align="center">
 
