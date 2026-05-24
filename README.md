@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=AI+Orchestration+Specialist+%F0%9F%A7%A0;AWS+%7C+Python+%7C+Serverless+%E2%98%81%EF%B8%8F;From+Colombia+to+the+Cloud+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=AI+Orchestration+Specialist+%F0%9F%A7%A0;AWS+%7C+Python+%7C+Serverless+%E2%98%81%EF%B8%8F;From+Colombia+to+the+Cloud+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
