@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBJ1906&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="280"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoBJ1906&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="280"/>
 
 ## 🧠 About Me
 
@@ -90,7 +90,7 @@ class NicolasBejarano:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" height="170"/>
 
 </div>
