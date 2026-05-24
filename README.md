@@ -91,7 +91,7 @@ class NicolasBejarano:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" height="170"/>
 
 </div>
 
