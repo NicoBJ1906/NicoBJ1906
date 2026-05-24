@@ -7,14 +7,12 @@
 <p>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nicolas.bejarano1908@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=NicoBJ1906&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=NicoBJ1906&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
 ---
-
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoBJ1906&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500" width="280"/>
 
 ## 🧠 About Me
 
@@ -35,8 +33,6 @@ class NicolasBejarano:
     def __str__(self):
         return "Building intelligent systems that solve real problems"
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -90,13 +86,19 @@ class NicolasBejarano:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&ring_color=6C63FF&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&ring_color=FF4500&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoBJ1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500" height="170"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoBJ1906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="95%"/>
+
+<img src="https://streak-stats.demolab.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF4500" height="170"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoBJ1906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&area_color=FF8C00" width="95%"/>
 </div>
 
 ---
