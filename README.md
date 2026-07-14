@@ -14,7 +14,11 @@
 
 ---
 
-## 💻 whoami
+<div align="center">
+
+### 🖥️ &nbsp; `nicolas@bejarano` &nbsp; · &nbsp; `~$ neofetch`
+
+</div>
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣄⣄⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
