@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nicolas.bejarano1908@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nicolasbejarano1908@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=NicoBJ1906&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS" />
 </p>
 
@@ -41,7 +41,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡪⡘⡜⡜⡼⣜⣞⢞⡮⡯⡮⡳⡕⡇⢇⠕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢐⢑⢌⠜⡜⢜⢎⢯⢫⢝⢎⢇⢇⢣⢑⠕⣩⣶⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    .Contact -----------------------------------------
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣕⡐⢅⢕⠸⡨⡊⡎⣎⢆⢇⢎⢜⠜⢔⣑⣾⣿⡿⣷⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    .LinkedIn     : linkedin.com/in/nicolás-bejarano-jiménez-a730b1199
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣽⣿⣽⣾⣜⢔⢱⠨⡪⡪⡪⡪⡢⡣⡪⡪⣕⣿⣾⣿⣿⣿⢿⣿⣿⣶⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    .Email        : nicolas.bejarano1908@gmail.com
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⣿⣽⣿⣽⣾⣜⢔⢱⠨⡪⡪⡪⡪⡢⡣⡪⡪⣕⣿⣾⣿⣿⣿⢿⣿⣿⣶⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    .Email        : nicolasbejarano1908@gmail.com
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣻⣷⡯⣎⢮⢪⢪⡪⡎⣎⢎⢮⣪⣿⡿⣾⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣄⡀⠀⠀⠀⠀⠀    .GitHub       : github.com/NicoBJ1906
 ⠀⠀⠀⣀⣤⣤⣶⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⡿⣗⡯⣗⣗⡵⣝⢮⣳⢽⣾⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣀
 ⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣷⡳⡯⣯⣳⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -171,7 +171,7 @@ class NicolasBejarano:
 
 *Let's build something intelligent together.*
 
-**📫 Reach me at** [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/) · [Email](mailto:nicolas.bejarano1908@gmail.com)
+**📫 Reach me at** [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-bejarano-jim%C3%A9nez-a730b1199/) · [Email](mailto:nicolasbejarano1908@gmail.com)
 
 </div>
 
