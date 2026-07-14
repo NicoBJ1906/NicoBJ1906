@@ -14,6 +14,38 @@
 
 ---
 
+## 💻 whoami
+
+```text
+
+                   :+###*+-
+                  =##**++**#.
+                 =========-+=               .Role:            AI Engineer & Orchestration Specialist
+                 -++**++*+=+-               .Location:        Colombia
+                .--=++==+====.              .Focus:           Multi-agent AI orchestration at scale
+                 ---+=++==---
+                  .-==++===.                .Languages:       Python, JavaScript, C#, SQL
+                   :==++==-                 .AI/ML libs:      LangChain, scikit-learn, XGBoost, pandas, NumPy
+                .-+*--===-+#=:.             .GenAI:           Amazon Bedrock, RAG pipelines, MCP Servers
+           .:=+#%%%%#++++*%%%%%#*=-:.       .Cloud:           AWS Lambda, Step Functions, DynamoDB, S3
+         +#%%@@@%%%%@@%*%@@%%%%@@@%%%:      .Automation:      n8n, GitHub Actions, CI/CD, Docker
+        .%@%%%%%%%%%@@@%%@@%%%%%%%%%%*
+        =%%%%%%%%%%%@%@@@@@%%%%%%%%@%%:     .Contact ------------------------------------------
+        #%%@%%%%%%%%@%@%%@%%%%%%%%@@%@+     .LinkedIn:        nicolas-bejarano-jimenez
+       .%@@@@%%%%@%%%@@%%@%%%@%@%@@@@@%     .Email:           nicolas.bejarano1908@gmail.com
+       -%%@@@%%%%@@%%@@@@@%%%@%@@@@@@%%:    .GitHub:          NicoBJ1906
+       =%%%@@@%%%%@%%@@@@@%%@%%@@@@@@%@=
+       +%%@@@@@@%@@@%@@@@@%%@@@@@@@@@%@*
+       *%%@@@@@@@@@@@@@@@@%@@@@@@@@@@%%*
+       *@@@@@@@@@@@@%@@@@@%@@@@@@@@@@@@#
+       #%%@@@@@@@@@@%@@@@@@@@@@@@%@@@%%@-
+       +%%%%@@@@@@@%@@@@@@@@@@@@@@@%%%%+
+        *%%%%%@@@@@@@@@@@@@@@@@@@@%%%@*
+        .%%%%%%@@@@@@@@@@@@@@@@@%%%@@%:
+```
+
+---
+
 ## 🧠 About Me
 
 ```python
