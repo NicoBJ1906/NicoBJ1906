@@ -17,68 +17,41 @@
 ## 💻 whoami
 
 ```text
-qqqqwwwwwmmmmZZZOOO00000QQQQLLLLLLLLLCCCCCCCCCCCCCCCJJCCCCCCCCCCCCCCCCLLLLLLLLQQQQ00OOOOOZZZZZZZZZmm
-wwwwmmmmmmZZZZO000QQQQQLLLLLLCCCCCCCCJJJJJJJUUUUUUUUUUUUUUUUUUUUUJJJJJJJCCCCCCCCLLLQQQQ000000OOOOOOO
-mmmmZZZZOOOOO00QQQLLLLLLLCCCCJJJJJUUUUUUUYYYYYYYYXXYYXXXXXXYYYYYYYYUUUUUUUJJJJJJCCCCCLLLQQQQQ0000OOO
-mZZZOOOOOO0000QLLLLCCCCCJJJUUUUUUUUYYYYXXXzzzzzXYYLQOO0JULLCYXzzzXXXXYYYYYUUUUUUUJJJJCCCLLLLLLQQQQQQ
-ZZOOOO0000QQQLLCCCCJJJUUUUUYYYYYYXzzzzYJLLQ0QQ0wdbddpwqdh#M#kmOZCzczzzzzzXXXXYYYYYUUUJJJCCCCCLLLLLLL
-OOO0000QQQQLLCCCJJJUUUUUYYYYXXzzXC0dohdhqd**88%B&WM*#W8B%%B@B%%@%dXccccccczzzzzXXYYYYUUUJJJJCCCCLLCC
-O0000QQQQLLLCCCJUUUUYYYYYXXzcXOkM%$@hLCbaW8B$$@%%%%%8888&&W&B@@$8MwcvvvvvvvcccczzzXXXYYUUUUUJJCCCCCC
-00QQQLLLLCCJJJUUUYYYYXXzzccUwM@$$@&W&W*a*#bmUU*#okkahhhhaaha*##W8B&LxnuuuuuuuvvvccczzXXYYYUUUUUUJJJJ
-QQQLLLCCCJJJUUUYYXXzzzccvCk8@$$@%8&8&#Mkm[]jLhBo*oahaooaaaooaaoo*#W#dLnxxxnnnuuuuvvccczzXXXYYYYUUUUU
-QLLLCCCJJJUUUYYXzccccvuvq8@$$@%%%8%%&#*hqwokh8$@B@@@BB%888%%B@@B8MMW&WLrjrxxxxxxnnuuuvvcczzzXXXXYYYY
-LLCCCJJUUUUYYXXzccvvunYoBB@@BBB@%8%%8&MMhpk#&W#awUn/1]-_~>+])fxz0h%$@WkmnjrrrrxxxxnnnuuvvcccczzzXXXX
-LCCJJUUUUYYYYXzcvvunvOMBB@$@@@BBBBB%%%8%BB&dX)i,`                `i(O%$Bkufjrrrrrrrxxxnuuuvvccczzzzz
-CJJUUYYYYXXzzccvuuxUa%B%B$$@@@BBBB%B@@@WdCti""^`.                   `_U%$hLfffjjjjjrrrxxxnuuuvcccccc
-JUUUYYXzzzzccvvunxO&%%%%@$@@@@@@BBB@@hz1<;:;:^``.                    '^]k$8wt/ttffffjjrrrxnnuuuvvcvv
-UUYYXzzzccvvuunnxw%B%B8%$@@$$$@B@@$#Y)?-~i;:,"' .`":,"^..              `lJ@&bf\ttttttffjrrxxxnuuuuuu
-YYXXzzccvvvunnxrmBBB%@%%$$$$$$@@$%mt)|)]~i>}()))\xzYXvr/1~:'  .`^;~]}[]_>!JB@b/\////ttfffjjrrxxnnnuu
-YXzzzcvvuuunnxrC%B@B%@%B$$$@$$$$#Uf\|\tnUOk*MW8dx{_~~?)jvUCv||\fnz0ZmaWMohdBB@Z|\\\\///tttffjrrxxnnn
-zzzccvuunnnxxjcM%@$BB@8%$$$@B$@oJruCdWB$$$$$$$@@#mz/[-[1\Xo$qzCOqkLvq@$$$$@%$$%qn||\\\\\\/ttffjrrxxx
-zzccvunnxxxxjxaB%$$@%$%8$$$$$@bCJOh@$$W$$$$$$$@B%@$$$@B@$$$$pO#MMa*$$B%%@$@M8$$$BJ(||||||\\//ttfjrrr
-zccvunnxxxrrfqB%B$$@8$%%$$$$$*wpmq*%$$M$$$$$$$$$$$$$$$$$$$$$dL?_rWW%$@B@@$$@&$$w*hf)()(((||\\//tfjjj
-ccvuunxxxrjtJ@8%B$$@8$@%@$$$BM%oOzw%$$8@$$$$$$$$$$$$$$$$$$$8*{`  lb@$$$$$$$$$$$duWu))))))((||\//tfff
-cvuunxxrrjtj#@8B%@$$8@@%B$$$$$#0XCa@$$$B$$$$$$$$$$$$$$$$$$%WQ_i^  l*$$$$$$$$$$$@(of(1))1))(((|\\/ttf
-vuunxrrjff/J@%%@@%$@B%@%%@$$$$*whB$%*B$B%$$$$$@@B%%%%8&WM#8h{<l`   >*$$$$$$$$$$$ub[)1111111)((||\\//
-uunxrrjfft/h@%B$$%@$@8@@%@$$$$$$$%M*h*8%WW&WMM#**oohkkh*&B*j_>l,    IO#*M&&888Womr_1{}}{{{{11)((||\\
-unxxrjfff/r&@@@$$B@$$%B$@@$$$$$$B8WW#ohkbbbkbdppqpdppbkahq(~}rUYj[~i:;uwwwOCXU8BMw1[[[[}}}}{{11)((||
-unxrrffft\X%B@$$$@@$$@8$$@$$$$%&WWW&&&8%8&#*abpwOQJUcx\1umLq#B$$%#ok0UtYZppOYjm$$&)?][[]][[}}{{1))((
-nxrrjftt/|0BB$$$$$@$$$%@$$$$$B*aaahkhoohdmQUvj\){?+il;^,)oB@$@@$$BoUhMti-1/jt?t$$M1??????]][}}{{1)))
-xxrjftt/\|pB@$$$$$$$$$$B$$$$$@W***kqwqwZQUznf(]-<<l:^..`ifLQ00LObh0|}|:``,l><>]8$*}----????][[}}{11)
-xrjftt//|/*@@$$$$$$$$$$@@$$$$$%W##*bqmOO0LXuj\1[+<il^`'",Ii!Ii~?}]+_<,^''`^:li]%$a?_-------??][}}{{1
-rrftt//\|j&$$$$$$$$$$$$$B$$$$$@&#**kqZZOQLUXvxt({]-~!!i>+i>_)nY0ZqO0Yf}I:^`"I>($$p+_____---???][}}{{
-rjft//\\)c@$$$$$$$$$$$$$$$$$$$$BMoakmO0QCJJJUcnf\|)1|ttrcCd&%&*kaMM*o*WdtI:,lix$$Q<+++++__---??][[}{
-rftt/\\|1J$$$$$$$$$$$$$$$$$$$$$$8*hdwOLJCUzXzcunfttjcUZhWMdLuf1-_~_+-{t0aY-l!lY$$c<~~+++___---?][[}}
-jftt/\||)Q$$$$$$$$$$$$$$$$$$$$$$@W*hwOOLUYvccvvxrjxvYCYxrrcULmqwQYnjux\}\Uri!>Z$%\<~~++++__---??][[}
-ftt/\||(1C$$$$$$$$$$$$$$$$$$$$$$$@&*bqmOCYczcczzuuzUUzuxuYmo&%@@$$$@%WpY[-|+<+h$o-<~~~~++++__-??][[}
-ft//\||(1X@$$$$$$$$$$$$$$$$$$$$$$$B&#adwO0CUUXUL0OO0LCQQO0QLL0ZOQL0wdqXt{?({+|@$Ci<<<<~~~+++_--??][[
-ft/\||(){x%$$$$$$$$$$$$$$$$$$$$$$$$@8W*hkbwZO0LOwwOLJUzvxt)-~l;,,,;i+]-_-?{(-m$@Y!>>>>><~~~++__-??][
-t//\|(()}/W@$$$$$$$$$$$$$$$$$$$$$$$$@B%8W#oahkdqqOCYvr\)1[]_+!IIl!iil,,;l>?{v@@&d<i>>>><<~~~++_--??]
-t/\\|()1{)*B$$$$$$$$$$$$$$$$$$$$$$$$$$@@BB%88WMoahdw0CXcxfttjjfftttt|[iIl_1n&$8%#]!ii>><<~~~~++_-??]
-t/\|((){}|M%@$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@BB%%%8WM*abqZOwpkhhbpqmU)_?/C8$B8B&/liii>><<~~~~++_-??
-t/\|()1{}\M%@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$@$$$@@@@@BB@@$$$@B&aOzCa$$@8@%%uIiiii>><<~~~~+__-?
-/\|()){}[1oB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@&**&$$$$%@@%%cI!!iii>><<<~~++_-?
-/\|()1{}}]0$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$@@@@@@8M#&%@$$$$$%B$BB%JI!!!ii>>><<~~~+_--
-\\|()1{}}[)*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@$$@@@B8MM8@$$$$$$$@%$@B@%mlll!iii>>><~~~+__-
-/\|()1{}}[?\M$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@@@%%@$$$$$$$$$@%$@%@$%o+;l!!ii>>><<~~+_--
-/\|()1{}[[[-/W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@$$$$$$$$$$%@$BB@B8&(:Il!!ii>><<~~+_--
-/\|()1{}[[]?_\W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@@$$$$$$$$$BB$@@$@B&&\,IIl!ii>>><~++_--
-/\|()1{}[[???_t8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@@BB@$$$$$$$$$@B$$@$$@B8M?:IIllii>><~~++_--
-t\|()1{}[[]???+J$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@BB@$$$@$$$$$$B@$$$$$@8%OI;Ill!!i>><~~++_--
-/\\()1{}[[]??-}o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@BB@@$$@$$$$$$$@$$$$$@B&W{:IIlll!i><<<~++_--
-/\\|)){}}[[??{O$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@@$@@B@$$$$$@B$$$$$$B%8X,;IIIl!ii><<~~~+_--
-/\|((){[]][tq&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$@@@@@@B%B$$$$$$@%$$$$$@%%8z_I::Il!i>><<~~++_--
-/\|(1{|xCp*B$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$@@@BBB%%@$$$$$$$$%$$$$$@B%B@&qYt?illi><~~+++_--
-\((fUdW@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@@$$$$$$$$$$$$B@$$$@BB$$%%8%B8kCj}+>><~+_--?
-jJk%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@$$$$$$$$$$$$$$$$$$$$$$$$$@B$$@@@$$@88%8W8@$@8a0u(?++_-?
-8$$@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$$$$$$$$$$$$$$$B$$$$B$@8B8@8W&B@@@@@@8owUr1?
-@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$$$$$$$$$$$$$$$%$$@88%%B8BB%8&%BBB@@@@B%%8Md
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$$$$$$$$$$$$$$$%@$@BBB%%BB@@%&8%BBB@@@@@%%%%
-$$$$$$$$@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@$$$$$$$$$$$$$$$$$$$$$$$$$$B@$$@@@%8%@$$B8&%BBB@@@@@@B%%
-$$$$$$@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@$$$$$$$$$$$$$$$$$$$$$$$$$$@B@@BBB%%B@@$@%8%B@@@@@@@@@B%
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$B$$$$$$$$$$$$$$$$$$$$$$$$$$$%@@@@@BB@@@$@B8%B@@@$$@$$@@%
-$$$$$$$$$$$$$$$$$$$$$$@@@$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$$$$$$$$$$$$$$$$%@$@@@@@$$$$$@%%B@$$$$$$$$$@
-$$$$$$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$$$$$$$$@$$$$$$$$$$$$$$$$$$$$$$$$$$$BB@@@@B@@$@$@@%%%@$$$$$$$$$$
+
+                                      "+][+;",`.
+                           .`:i>>>i-(vwkkbdppahpC|]_'
+                      '!1rwwQpdkMWB@$$%8W&8@@@$$$@$$b>
+                   .-Ya%$$Bhwh#@BB&8%8W&8WWWWWWW%@@@Bd;
+                 Ird$$$$B8%8&*kcjnXhW#ooooooooo***#W8@w}:
+               ^xW$$$@@@BBB8M*pCwdW$$%BB%%%%888%%BB%8&%Ba+
+              +b$$$$$$$@B@@B8&*hM8&*kmYx\1[?-+-[|fnYm*B$%hj'
+            lY8$$$$$$$$$$@@$$@$%hc1>,.               "~nh$$Ci
+           \M$$@@$$$$$$$$$$$MOr}<;,"^.                 .;|a$#/
+         ^U$$@BB$$$$$$$$$$#U)?~l;;,`  .'^`'              .lX@BX`
+        ^m$$@$@@$$$$$$$$&0t()}_~-(\|(|fucvxt(?I`..^";+}{}}-<u%$C'
+        U$$$@$@@$$$$$$$hcjfnXLwhW8%B&Q/?<>_1tcZ0xjnXLZLw&B8W*%$$Y^
+       r@@$$@$@B$$$$$%dJXmM@@$$$$$$$$@&opQCLOk%$wOhoodd&$$$$$%@$$or'
+      1@@$$$B$@@$$$$Bbwmk8$$8@$$$$$$$$$$$$$$$$$$d0nXM8$$@B@$$@8$$o@)
+     i&@@$$$B$$@$$$$88#mUh$$@B$$$$$$$$$$$$$$$$$%h~  IO$$$$$$$$$$$zar
+    .O$B@@$$@@$@@$$$$8ZCw8$$$@$$$$$$$$$$$$$$@B8&u+I. `Z$$$$$$$$$$wUr
+    +@@@$$@$$B$@@$$$$%M%$BM#$$%@$@@B%8&WWMMMM8B0?>:   `UB@@$$$$$BkO-
+    z$$$$$@$$B@$$$$$$$$$%&W***oaaahkkkkkbbh#W#X-](t{>:"`)wbkdqmd%Mp_
+   .p$$$$$$$$$B$$$$$$@%888%88%8&M*abpmOQCYufnwCOo%@%#kqCuxOqdZYx*$$r
+   ;&$$$$$$$$$@$$$$$$&***aho*admQYnt({?+iI,^+w@$$B@$$WJdd->](t\?Y$$j
+   [@$$$$$$$$$$$$$$$$BWMMappqmOCXnf)]+<!;` `:?fjjrrcUu}_~^`":!>ij$$1
+   t$$$$$$$$$$$$$$$$$$%WW#kqmmO0Jznf|{?+>;;I!l!!~1fvcxnt-l^"^,l>u$$~
+   Q$$$$$$$$$$$$$$$$$$@&#obmZOQLCCYvxt|)1|\fnX0oM#ahMW#aahc_::i<L$%i
+   m$$$$$$$$$$$$$$$$$$$BModw0LLCYYXzurfjnYQpaadLcx\{]]?}|xwm|ii>d$a`
+   w$$$$$$$$$$$$$$$$$$$$%MhqmOCYzzzzvuxvYJUnjnJwk*MokqOmLv|/v+i-*$L
+   m$$$$$$$$$$$$$$$$$$$$$BWobwOLUUYUCCCQ0CJJC0mba*WMMW8%*Lt?){+\@@}
+   Q$$$$$$$$$$$$$$$$$$$$$$@8MakbwZOQOqpm0LCUXvf1]_~>i<?1|}[]1\?m$8i
+   z$$$$$$$$$$$$$$$$$$$$$$$$@B8W#*ohbdwQUcr/({}?_il!i><i;;l>?1X$@B|
+   u$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@@%8WM*hpmQJzuvzXYYzzcn)>!_|JB$B$X
+   z$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@B%&MMW&%B%8W*mx/Xk$$B@@d'
+   \$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%#oM@$$@@$@h'
+   i8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$B8W8B@$$$$@@$$$a'
+    |@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@%8%$$$$$$$$@$@$$&~
+     t@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$B$$@$$$x
 
 nicolas@bejarano ------------------------------------------------------
 .Role:        AI Engineer & Orchestration Specialist
