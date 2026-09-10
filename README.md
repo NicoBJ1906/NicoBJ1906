@@ -60,7 +60,7 @@
 class NicolasBejarano:
     role = "AI Engineer & Orchestration Specialist"
     location = "Colombia 🇨🇴"
-    
+
     skills = {
         "genai":      ["Amazon Bedrock", "LangChain", "RAG pipelines", "MCP Servers"],
         "ml":         ["scikit-learn", "XGBoost", "pandas", "NumPy"],
@@ -68,15 +68,15 @@ class NicolasBejarano:
         "automation": ["n8n", "GitHub Actions", "CI/CD"],
         "languages":  ["Python", "JavaScript", "C#", "SQL"]
     }
-    
+
     current_focus = "Multi-agent AI orchestration at scale"
-    
+
     contact = {
         "linkedin": "nicolás-bejarano-jiménez",
         "email":    "nicolasbejarano1908@gmail.com",
         "github":   "NicoBJ1906"
     }
-    
+
     def __str__(self):
         return "Building intelligent systems that solve real problems"
 ```
@@ -93,22 +93,24 @@ class NicolasBejarano:
 
 **🤖 AI & ML**
 
-![Amazon Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-6C63FF?style=flat-square&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-6C63FF?style=flat-square&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square&logo=bookstack&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
 **☁️ Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
 <td align="center" width="33%">
@@ -117,9 +119,9 @@ class NicolasBejarano:
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -133,19 +135,22 @@ class NicolasBejarano:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicoBJ1906&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&ring_color=FF4500&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoBJ1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500" height="170"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=NicoBJ1906&cc=0D1117&tc=FF4500&ic=FF8C00&bc=0D1117" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF4500" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=NicoBJ1906&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF4500" height="170"/>
+**Most used**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoBJ1906&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&area_color=FF8C00" width="95%"/>
 </div>
 
 ---
